@@ -7,4 +7,4 @@ Requirement tools for this application
 2] Jdk[1.7 or above]
 3] Firebase account
 	
-
+you can see snaps of this applicaiton in wiki page how it look like
