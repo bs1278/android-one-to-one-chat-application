@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mychat</string>
+    <string name="fa_user_o">&#xf2c0;</string>
+    <string name="fa_lock">&#xf023;</string>
+    <string name="fa_facebook">&#xf09a;</string>
+    <string name="fa_google_plus">&#xf0d5;</string>
+    <string name="fa_twitter">&#xf099;</string>
+    <string name="fa_instagram">&#xf16d;</string>
+    <string name="fa_pinterest">&#xf0d2;</string>
+    <string name="fa_heart">&#xf08a;</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+</resources>

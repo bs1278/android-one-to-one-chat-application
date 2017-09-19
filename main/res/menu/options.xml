@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/res-auto"
+    xmlns:android1="http://schemas.android.com/apk/res/android">
+    <item android1:title="Users"
+        android1:id="@+id/user_list"/>
+    <item android1:title="Logout"
+        android1:id="@+id/logout"
+        />
+    <item
+        android1:title="Google"
+        android1:id="@+id/google"/>
+    <item
+        android1:title="YouTube"
+        android1:id="@+id/youtube"/>
+    <item
+        android1:title="123Telugu"
+        android1:id="@+id/onetel"/>
+    <item android1:id="@+id/news"
+        android1:title="News"/>
+</menu>
